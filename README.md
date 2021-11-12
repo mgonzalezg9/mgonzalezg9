@@ -1,6 +1,6 @@
 <h2> Hi, I'm Manuel González García!</h2>
 <img align='right' src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/source.gif" width="230">
-<p><em>Software Engineer at Carsbarter</em></p>
+<p><em>Software Engineer at CarsBarter</em></p>
 
 [![Website: mgonzalezg9](https://img.shields.io/website?url=https%3A%2F%2Fmgonzalezg9.com)](https://www.mgonzalezg9.com)
 [![Twitter: mgonzalezg9](https://img.shields.io/twitter/follow/mgonzalezg9?style=social)](https://twitter.com/mgonzalezg9)
