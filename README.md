@@ -8,12 +8,12 @@
 
 ### <img src="https://media.giphy.com/media/B2zSi59LPp7iMclz7Q/source.gif" width="50"> A little more about me...  
 
-```javascript
+```js
 const myself = {
   pronouns: "he" | "him",
   code: [TypeScript, HTML, CSS, C++, Python, Java],
-  tools: [React, React Native, Redux, Next, Node, Vue, Nuxt, Qt, MySQL, MongoDB],
+  tools: [React, React Native, Redux, Next, Node, Vue, Nuxt, Python, MySQL, MongoDB],
   rolesApplying: ["full stack engineer", "web development", "mobile web"],
-  learning: [LaTex, Scss]
+  learning: [Rust, Web performance]
 }
 ```
