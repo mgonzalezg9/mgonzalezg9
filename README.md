@@ -9,12 +9,12 @@ I'd love to use the web to make the access to technology universal.
 ## 🚀 What I Bring to the Table
 
 ### Technologies & Tools 📜
-- **Frontend**: React, Vue
-- **Backend**: Node.js, Express, GraphQL
+- **Frontend**: React, Vue, Sass
+- **Backend**: Node.js, Express, Prisma, Sequelize
 - **Databases**: MySQL, MongoDB
-- **Other Tech**: Electron, TypeScript, Sass, Next.js, Python, Prisma
-- **Cloud Services**: AWS
-- **Testing**: Unit Testing
+- **Other Tech**: Electron, TypeScript, Next.js, Python
+- **Cloud Services**: AWS, GitLab CI
+- **Testing**: Jest, Vue-test-utils
 - **Methodology**: Scrum, Kanban
 
 ## 📚 Constantly Growing
