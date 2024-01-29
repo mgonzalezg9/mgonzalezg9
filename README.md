@@ -6,9 +6,7 @@ My recent experience involves contributing to the Software development of an ICU
 
 I'd love to use the web to make the access to technology universal.
 
-## 🚀 What I Bring to the Table
-
-### Technologies & Tools 📜
+## Technologies & Tools 📜
 - **Frontend**: React, Vue, Sass
 - **Backend**: Node.js, Express, Prisma, Sequelize
 - **Databases**: MySQL, MongoDB
@@ -17,9 +15,7 @@ I'd love to use the web to make the access to technology universal.
 - **Testing**: Jest, Vue-test-utils
 - **Methodology**: Scrum, Kanban
 
-## 📚 Constantly Growing
-
-### Currently Learning 🌱
+## Currently Learning 🌱
 
 - React Native
 - Test-Driven Development (TDD)
