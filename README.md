@@ -3,9 +3,9 @@
 Hello, I’m Manuel, a Full Stack Software Engineer specializing in Electron, TypeScript, NodeJS, and modern web technologies. 
 
 Currently, I’m contributing to a Web3 crypto trading platform at Kairon Labs (Antwerp, Belgium), where I:
-• Leverage Next.js and Tanstack Query to deliver scalable, high-quality features.
-• Played a key role in developing a high-performance trading interface integrated with CEX (Centralized Exchanges) and DEX (Decentralized Exchanges), ensuring seamless and reliable operations.
-• Collaborate within a 7-developer team, actively conducting code reviews and ensuring clean, production-ready code.
+- Leverage Next.js and Tanstack Query to deliver scalable, high-quality features.
+- Played a key role in developing a high-performance trading interface integrated with CEX (Centralized Exchanges) and DEX (Decentralized Exchanges), ensuring seamless and reliable operations.
+- Collaborate within a 7-developer team, actively conducting code reviews and ensuring clean, production-ready code.
 
 I'd love to use the web to make the access to technology universal.
 
