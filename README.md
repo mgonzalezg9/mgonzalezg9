@@ -25,6 +25,7 @@ At Kairon Labs, I play a pivotal role in enhancing a Web3 market-making platform
 | -------- | -------------------- |
 | English  | Cambridge English B2 |
 | French   | DELF B1              |
+| Dutch    | Richtgraad 1 A2      |
 | Spanish  | Native language      |
 
 ## Projects 🚀
