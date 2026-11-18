@@ -1,23 +1,18 @@
 # Hi there! :wave:
 
-Hello, I'm Manuel, a Full Stack Software Engineer with a strong foundation in Next.js, TypeScript and Python. My passion is building high-performance and scalable products.
+I'm Manuel, a Trading Systems Engineer in Ghent, Belgium. I build trading infrastructure at a crypto market maker.
 
-At Kairon Labs, I play a pivotal role in enhancing a Web3 market-making platform, leveraging modern frameworks like Next.js and Tanstack Query to drive efficiency and scalability. Collaborating within a fast-paced, high-impact development team, I helped ensure robust and reliable trading operations.
+I've owned production systems end to end for 5 years, both as a sole developer and on greenfield builds. I care about clean architecture and correct code. I also like to iterate fast.
+
+At Kairon Labs I maintain and extend a Rust market data platform and trading engine. It has connectors to 14+ exchanges and a DEX, and it takes in TradFi feeds too. I implemented position and PnL tracking for our market-making strategies. I also distribute real-time data over Aeron and NATS, using SBE for encoding.
 
 ## Technologies & Tools 📜
-- **Frontend**: React, Vue, Sass
-- **Backend**: Node.js, Express, Prisma, Sequelize
-- **Databases**: MySQL, MongoDB
-- **Other Tech**: Rust, TypeScript, Next.js, Python
-- **Cloud Services**: AWS, GitLab CI
-- **Testing**: Jest, Vue-test-utils
-- **Methodology**: Scrum, Kanban
-
-## Currently Learning 🌱
-
-- React Native
-- Test-Driven Development (TDD)
-- Dutch
+- **Languages**: Rust, C++, TypeScript, Python
+- **Low latency**: Aeron, NATS, SBE, WebSockets, lock-free (crossbeam, arc-swap)
+- **Data**: PostgreSQL, TimescaleDB
+- **Web**: Next.js, React, Node.js, FastAPI, TanStack Query
+- **Infra**: Linux, Docker, AWS, CI/CD
+- **AI tooling**: Claude Code, Codex, multi-agent orchestration
 
 ## Languages 🌐
 
@@ -30,7 +25,12 @@ At Kairon Labs, I play a pivotal role in enhancing a Web3 market-making platform
 
 ## Projects 🚀
 
-As a technology enthusiast, I take pleasure in working on coding projects independently. 
-Check out my pinned repositories for a glimpse into my recent work and explorations.
+- **[Proboda](https://proboda.es/)**: a wedding-vendor marketplace I built end to end from scratch. The backend is Fastify on PostgreSQL with Prisma, and the frontend is Next.js. GitHub Actions handles CI/CD. I also set up an AI-agent harness for it, and its review subagents let my non-technical client ship production code.
+- **Trend Strategy**: a Python bot built on ccxt. It trades crypto with a trend-following strategy and exits when its indicators detect a regime change. It runs on a Linux server, and I control it remotely through Telegram.
 
-Feel free to connect with me! Let's collaborate and build something amazing together. 🌟
+The rest of my recent work is in my pinned repositories.
+
+## Connect 🤝
+
+- [LinkedIn](https://www.linkedin.com/in/manuel-gonzalez-garcia)
+- [Website](https://manuelgonzalezgarcia.com)
